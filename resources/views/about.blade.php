@@ -72,7 +72,7 @@
 
         <div class="content">
             <div class="title m-b-md">
-                Home
+                about
             </div>
 
             <div class="links">
